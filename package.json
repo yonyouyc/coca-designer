@@ -1,0 +1,8 @@
+{
+  "name": "coca-designer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yonyouyc/coca-designer.git",
+  "author": "songhlc <songhlc@yonyou.com>",
+  "license": "MIT"
+}
